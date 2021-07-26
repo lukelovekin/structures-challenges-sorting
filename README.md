@@ -1,8 +1,8 @@
 #### Practice:
-- Binary Search Tree, insert, find DONE
-- Merge two sorted lists DONE
-- Bubble sort DONE
-- Merge Sort DONE
+- Binary Search Tree, insert, find
+- Merge two sorted lists
+- Bubble sort
+- Merge Sort
 
 #### To Practice:
 - Doubly linked lsit push, pop, traverse, shift, unshift, get, set, insert, remove, reverse
